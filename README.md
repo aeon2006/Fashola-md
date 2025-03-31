@@ -1,5 +1,5 @@
 <p align="center"> 
-<a href="https://github.com/Ednut001"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=ARCH-+MD+by+Ednut+2024+best+repository.+%F0%9F%92%96" height="90px"></a> 
+<a href="https://github.com/aeon2006"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=ARCH-+MD+by+fashola+2024+best+repository.+%F0%9F%92%96" height="90px"></a> 
 </p>
  
 <p align="center">
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">   
-<a href="https://github.com/Ednut001/Arch-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/Ednut001/Arch-Md?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/aeon2006/Arch-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/Ednut001/Arch-Md?label=Watchers&color=green&style=flat-square"></a>
 <a href="https://github.com/Ednut001/Arch-MD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/Ednut001/Arch-Md?label=Stars&color=yellow&style=flat-square"></a>
 </p>
 
